@@ -13,6 +13,6 @@ entries:
       title: module name here
       url: /core
     output: web
-    title: character_recognition_gen
+    title: character_recognition_data_generation
   output: web
   title: Sidebar
