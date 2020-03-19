@@ -1,0 +1,10 @@
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/Jan21/character_recognition_gen
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
