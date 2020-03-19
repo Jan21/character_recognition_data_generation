@@ -61,4 +61,4 @@ sidebars:
 permalink: pretty
 
 theme: jekyll-theme-cayman
-baseurl: /character_recognition_gen/
+baseurl: /character_recognition_data_generation/

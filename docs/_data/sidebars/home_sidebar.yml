@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: Core module
       url: /core
     output: web
     title: character_recognition_data_generation
